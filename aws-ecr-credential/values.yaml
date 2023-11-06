@@ -11,5 +11,5 @@ aws:
   accessKeyId: ""        # base64
   secretAccessKey: ""    # base64
 
-jobImage: uhramovich/aws-kubectl
+jobImage: public.ecr.aws/t5s5r5b8/aws-kubectl
 jobImageTag: latest
